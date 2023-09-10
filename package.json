@@ -1,0 +1,30 @@
+{
+  "name": "test__vue__app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.8.3",
+    "@vue/apollo-option": "^4.0.0-beta.9",
+    "apollo-boost": "^0.4.9",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link": "^1.2.14",
+    "apollo-link-http": "^1.5.17",
+    "graphql": "^15.8.0",
+    "graphql-tag": "^2.12.6",
+    "vue": "^3.3.4",
+    "vue-apollo": "^3.1.0",
+    "vue-connect-wallet": "^0.1.7",
+    "vue-metamask": "^2.2.1",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}
